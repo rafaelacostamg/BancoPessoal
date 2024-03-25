@@ -10,7 +10,7 @@
   <p> Bem-vindo(a) ao repositório do Projeto Individual de Conclusão da Disciplina "Banco de Dados" na Residência de Software 2024.1 do SERRATEC. Este projeto consiste na criação de um Banco de Dados para um relacionamento Casa-Tarefa com base nas regras de negócio e requisitos especificados neste documento.</p>
 
   <h2>Descrição</h2>
-O banco foi criado imaginando um aplicativo de gerenciamento de tarefas domésticas de uma diarista, onde cada casa pode ter várias tarefas atribuídas.
+O banco foi criado imaginando um aplicativo de gerenciamento de tarefas domésticas de um(a) diarista, onde cada casa pode ter várias tarefas atribuídas.
 
   <h2>Requisitos</h2>
   <h3>Regras</h3>
